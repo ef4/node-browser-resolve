@@ -17,7 +17,7 @@
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "resolve": "0.4.2"
+    "resolve": "git://github.com:ef4/node-resolve.git"
   },
   "devDependencies": {
     "mocha": "1.12.0"
